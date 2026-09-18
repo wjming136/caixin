@@ -1,6 +1,12 @@
 {
-  "ts": "2026-09-18 15:50:40",
+  "ts": "2026-09-18 18:08:17",
   "v": "8.4",
-  "new_count": 0,
-  "articles": []
+  "new_count": 1,
+  "articles": [
+    {
+      "url": "https://www.caixinglobal.com/2026-09-18/blackrock-china-unit-wins-qdii-license-for-overseas-investment-102486360.html",
+      "title": "BlackRock China Unit Wins QDII License for Overseas Investment",
+      "word_count": 406
+    }
+  ]
 }
