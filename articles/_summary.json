@@ -1,6 +1,22 @@
 {
-  "ts": "2026-09-23 18:54:27",
+  "ts": "2026-09-24 04:02:24",
   "v": "8.4",
-  "new_count": 0,
-  "articles": []
+  "new_count": 3,
+  "articles": [
+    {
+      "url": "https://www.caixinglobal.com/2026-09-24/china-sets-new-sentencing-standards-for-fentanyl-related-crimes-102488304.html",
+      "title": "China Sets New Sentencing Standards for Fentanyl-Related Crimes",
+      "word_count": 634
+    },
+    {
+      "url": "https://www.caixinglobal.com/2026-09-24/xi-opens-us-state-visit-as-trump-gives-rare-airport-welcome-102488272.html",
+      "title": "Xi Opens U.S. State Visit as Trump Gives Rare Airport Welcome",
+      "word_count": 600
+    },
+    {
+      "url": "https://www.caixinglobal.com/2026-09-22/commentary-are-exports-holding-chinas-economy-hostage-102487636.html",
+      "title": "Commentary: Are Exports Holding China’s Economy ‘Hostage’?",
+      "word_count": 616
+    }
+  ]
 }
