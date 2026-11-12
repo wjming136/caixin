@@ -1,6 +1,12 @@
 {
-  "ts": "2026-11-11 21:46:38",
+  "ts": "2026-11-12 06:36:04",
   "v": "8.4",
-  "new_count": 0,
-  "articles": []
+  "new_count": 1,
+  "articles": [
+    {
+      "url": "https://www.caixinglobal.com/2026-11-12/analysis-governments-grapple-with-how-to-tax-ai-102503910.html",
+      "title": "Analysis: Governments Grapple With How to Tax AI",
+      "word_count": 735
+    }
+  ]
 }
