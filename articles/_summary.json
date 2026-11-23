@@ -1,6 +1,12 @@
 {
-  "ts": "2026-11-22 20:56:57",
+  "ts": "2026-11-23 06:45:47",
   "v": "8.4",
-  "new_count": 0,
-  "articles": []
+  "new_count": 1,
+  "articles": [
+    {
+      "url": "https://www.caixinglobal.com/2026-11-17/us-tightens-ai-chip-controls-on-data-centers-serving-chinese-firms-102505657.html",
+      "title": "U.S. Tightens AI Chip Controls on Data Centers Serving Chinese Firms",
+      "word_count": 699
+    }
+  ]
 }
